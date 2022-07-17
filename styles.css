@@ -1,0 +1,66 @@
+
+
+#dropdownMenuButton1:hover {
+    background-color: rgb(207, 198, 198);
+}
+#profile-tab-pane {
+    background: rgb(204, 201, 201);
+}
+.row-navbar{
+    display: flex;
+}
+.navbar-brand  {
+    width : 150px;
+}
+.navbar-brand > img{
+    width: 150px;
+}
+#create-post {
+    margin-left: 700px;
+}
+#home-tab :hover{
+    background-color: grey;
+    color: white;
+}
+#profile-tab {
+    font-size:  15px; 
+    color: grey;
+}
+#profile-tab :hover{
+    background-color: grey;
+    color: white;
+}
+.col >img{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.col > #img-s {
+    width: 200px;
+    margin-left: 80px;  
+}
+
+.titulo{
+    font-size: 25px;
+}
+#p-card {
+    margin-left: 40px;
+ }
+ .comment-post{
+    margin-left: -28px;
+ }
+ .card-body {
+    margin-right: -20px;
+    margin-bottom: -30px;
+ }
+ .card {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px; 
+ }
+ .card-body >p {
+    font-size: 17px;
+ }
+ 
+ 
